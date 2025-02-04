@@ -35,7 +35,7 @@ while True:
 
     another_order = input("Do you want to order another item? (Yes/No): ").strip().lower()
     if another_order != "yes":
-        break  # Exit loop if the user does not want another item
+        break  # Exit loop if the user does not want another items
 
 # Display the final bill
 print(f"\nYour total bill is Rs.{total_order}. Thank you for visiting KHAJA HOUSE!")
