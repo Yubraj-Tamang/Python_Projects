@@ -1,6 +1,6 @@
 # Hotel Menu Ordering System
 
-## Description
+## Descriptions
 This is a simple Python program that simulates a menu ordering system for a hotel called **KHAJA HOUSE**. The program displays a predefined menu with prices, allows the user to place multiple orders, and calculates the total bill while ensuring case-insensitive input handling.
 
 ## Features
